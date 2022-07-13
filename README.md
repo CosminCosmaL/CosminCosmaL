@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Cosmin Cosma
+- 😁 I’m full stack developer
+- 👀 I’m interested in Front-end, Back-end and cybersecurity
+- 📫 How to reach me 
